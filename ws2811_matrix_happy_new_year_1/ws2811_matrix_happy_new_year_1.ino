@@ -1,4 +1,4 @@
-// Adafruit_NeoMatrix example for single NeoPixel Shield.
+// Adafruit_NeoMatrix example for ws2811 LED series.
 // Scrolls 'HAPPYNEWYEAR2022' across the matrix.
 
 #include <Adafruit_GFX.h>
